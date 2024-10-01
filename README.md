@@ -1,16 +1,11 @@
-# flutter_layout
+Praktikum 1: Membangun Layout di Flutter
+![Prak1](https://github.com/user-attachments/assets/4cda83e9-4212-412c-ae3f-071edd3d5c8a)
 
-A new Flutter project.
+Praktikum 2: Implementasi button row
+![Prak2](https://github.com/user-attachments/assets/f43ba312-d5b4-4cb5-a698-752c6dcdff2e)
 
-## Getting Started
+Praktikum 3: Implementasi text section
+![Prak3](https://github.com/user-attachments/assets/b53cc9d7-42b0-4edc-bf67-15d8f405edb4)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Praktikum 4: Implementasi image section
+![Prak4](https://github.com/user-attachments/assets/82e9c74f-996f-448f-80b6-3619542aa0e9)
